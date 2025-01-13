@@ -1,4 +1,5 @@
 # RAG_contextual_retrieval
+![image](https://github.com/user-attachments/assets/5e06fd90-7e8c-45e4-a80a-3ce81e9afd12)
  <ul>
    <li>Used SentenceTransformers to generate document embeddings and ChromaDB for
  efficient vector-based document retrieval.</li>
@@ -6,4 +7,5 @@
  relevant responses.</li>
  <li>Used Steramlit to create GUI for better user experience. </li>
 </ul>
-![image](https://github.com/user-attachments/assets/c4fac479-0366-42ea-92a7-abda374e2279)
+
+
